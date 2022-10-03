@@ -1,4 +1,4 @@
-## Pomdoro Technique
+## Pomodoro Technique
 
 Recently I've been spending long hours on my computer, way past the point of optimal productivity and with almost no breaks.
 
@@ -15,3 +15,5 @@ There are five steps to the Pomodoro Technique;
 3. Work on the task for the 25 minutes without distraction
 4. Take 5 minute break when alarm sounds
 5. After every 4 pomodoros, takes a longer 20-30 minute break
+
+I therefore created a Bash Script for this. I however like to take a break evry 30 minutes 
