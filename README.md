@@ -19,4 +19,4 @@ There are five steps to the Pomodoro Technique;
 I therefore created a Bash Script for that sends a desktop notification after every pomodoro and break. 
 I however like to take a break every 30 minutes
 
-Ctrl+c to terminate 
+Press `Ctrl`+`C` to terminate
