@@ -20,7 +20,7 @@ do
 	sleep 30m
 
 	# Long break after 4th pomodoro
-	notify-send "Time for a long break. Take 15 minutes off"
+	notify-send "Time for a long break." "Take 15 minutes off"
 	sleep 15m
 	notify-send "Time to get back to work"
 
